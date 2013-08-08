@@ -1,0 +1,12 @@
+{
+  "name": "mean-seed",
+  "version": "0.0.0",
+  "description": "Boilerplate for MEAN stack application",
+  "dependencies": {
+    "express": "latest",
+    "socket.io": "latest",
+    "mongoose": "latest"
+  },
+  "author": "Nicklas Erman",
+  "license": "BSD"
+}
